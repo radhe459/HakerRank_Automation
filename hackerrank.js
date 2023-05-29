@@ -1,9 +1,7 @@
-const { rejects } = require("assert");
-const { resolve } = require("path");
 const puppeteer = require("puppeteer")
 const answerobj = require("./code.js")
 
-const username = "Your userId"
+const username = "Your username"
 const password = "Your password"
 
 
